@@ -95,7 +95,7 @@
   #define BACKLIGHT_PAL_MODE 2
 
 /* example code for WS2812-style underglow */
-#define RGB_DI_PIN  B7 // D3 <- Original | A10 < CustomMK
+#define RGB_DI_PIN  A10 // D3 <- Original | A10 < CustomMK
 #define RGBLED_NUM 24
 #define WS2812_PWM_PAL_MODE 1
 
